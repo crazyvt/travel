@@ -1,0 +1,11 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Stroll'
+paginate = 10
+
+[params]
+  author = 'Travel Curator'
+  description = 'The greener meadows'
+
+[taxonomies]
+  tag = 'tags'

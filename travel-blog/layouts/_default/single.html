@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} — {{ .Site.Title }}</title>
+  <link rel="stylesheet" href="{{ "/css/styles.css" | relURL }}">
+  {{ with .Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+</head>
+<body>
+  <header class="site-header">
+    <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+    <p class="site-tagline">{{ with .Site.Params.description }}{{ . }}{{ end }}</p>
+  </header>
+  <main class="content">
+    <article>
+      <h2>{{ .Title }}</h2>
+      {{ with .Params.location }}<p class="meta">Location: <strong>{{ . }}</strong></p>{{ end }}
+      {{ with .Date }}<p class="meta">When: <strong>{{ .Format "January 2006" }}</strong></p>{{ end }}
+      {{ with .Params.image }}<img class="hero" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      {{ .Content }}
+      {{ with .Params.tags }}
+      <p class="tags">
+        {{ range . }}<a class="tag" href="{{ (print "/tags/" .) | relURL }}">#{{ . }}</a> {{ end }}
+      </p>
+      {{ end }}
+    </article>
+  </main>
+  <footer class="site-footer">
+    <p>© {{ now.Format "2006" }} {{ .Site.Params.author }}</p>
+  </footer>
+</body>
+</html>

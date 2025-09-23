@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}Home — {{ end }}{{ .Title | default .Site.Title }}</title>
+  <link rel="stylesheet" href="{{ "/css/styles.css" | relURL }}">
+</head>
+<body>
+  <header class="site-header">
+    <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+    <p class="site-tagline">{{ with .Site.Params.description }}{{ . }}{{ end }}</p>
+  </header>
+  <main class="content">
+    <h2>{{ .Title }}</h2>
+
+    {{ with .Content }}
+    <section class="page-intro">
+      {{ . }}
+    </section>
+    {{ end }}
+
+    {{ if .Sections }}
+    <h3>Sections</h3>
+    <ul class="post-list">
+      {{ range .Sections }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ with .Params.description }}<span class="meta"> — {{ . }}</span>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ $pages := where .Pages "Kind" "page" }}
+    {{ if $pages }}
+    <h3>Destinations</h3>
+    <ul class="post-list">
+      {{ range $pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ with .Params.location }}<span class="meta"> — {{ . }}</span>{{ end }}
+        {{ with .Date }}<span class="meta"> · {{ .Format "January 2006" }}</span>{{ end }}
+        {{ with .Params.tags }}<span class="tags"> · {{ range first 3 . }}<a class="tag" href="{{ (print "/tags/" .) | relURL }}">#{{ . }}</a> {{ end }}</span>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </main>
+  <footer class="site-footer">
+    <p>© {{ now.Format "2006" }} {{ .Site.Params.author }}</p>
+  </footer>
+</body>
+</html>
