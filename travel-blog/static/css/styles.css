@@ -18,3 +18,66 @@ a:hover{ text-decoration:underline }
 /* clean blockquote */
 blockquote{border-left:4px solid var(--border);padding-left:1rem;margin:1rem 0;color:var(--fg)}
 blockquote em, blockquote p{font-style:italic}
+
+/* Table of Contents styling */
+.toc {
+  margin: 2rem 0;
+  padding: 1rem;
+  background: #f8fafc;
+  border-left: 4px solid var(--link);
+  border-radius: 0 8px 8px 0;
+}
+
+.toc h3 {
+  margin-top: 0;
+  color: var(--fg);
+  font-size: 1.1rem;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.5rem 0;
+}
+
+.toc li {
+  margin: 0.3rem 0;
+  padding-left: 1rem;
+  position: relative;
+}
+
+.toc li:before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--link);
+}
+
+.toc a {
+  color: var(--link);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+.toc .country {
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  color: var(--fg);
+}
+
+.toc .region {
+  font-weight: 500;
+  margin-left: 1rem;
+  color: var(--muted);
+}
+
+.toc .destination {
+  margin-left: 2rem;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
