@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Stroll</title><link>//localhost:1313/posts/</link><description>Recent content in Posts on Stroll</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Kyoto, Japan</title><link>//localhost:1313/posts/kyoto/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/kyoto/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Sacred Timeline on Stroll</title><link>//localhost:1313/posts/</link><description>Recent content in The Sacred Timeline on Stroll</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Arashiyama Bamboo Grove</title><link>//localhost:1313/posts/japan/kyoto/arashiyama-bamboo-grove/</link><pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/japan/kyoto/arashiyama-bamboo-grove/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>A short but unforgettable bamboo corridor near Tenryū-ji.&lt;/p>
+&lt;h2 id="highlights">Highlights&lt;/h2>
+&lt;ul>
+&lt;li>Early morning walk for soft light&lt;/li>
+&lt;li>Tenryū-ji gardens&lt;/li>
+&lt;li>Togetsukyō Bridge views&lt;/li>
+&lt;/ul>
+&lt;h2 id="practical">Practical&lt;/h2>
+&lt;p>Arrive before tour buses; combine with nearby temples.&lt;/p></description></item><item><title>Kyoto, Japan</title><link>//localhost:1313/posts/japan/kyoto/kyoto/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/japan/kyoto/kyoto/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Wander through centuries-old temples, serene gardens, and lantern-lit alleys of Gion.&lt;/p>
 &lt;h2 id="highlights">Highlights&lt;/h2>
 &lt;ul>
@@ -7,7 +16,7 @@
 &lt;li>Kaiseki dinner in a machiya townhouse&lt;/li>
 &lt;/ul>
 &lt;h2 id="practical">Practical&lt;/h2>
-&lt;p>Best in March–April or November; bikes are perfect for flat city rides.&lt;/p></description></item><item><title>Queenstown, New Zealand</title><link>//localhost:1313/posts/queenstown/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/queenstown/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Best in March–April or November; bikes are perfect for flat city rides.&lt;/p></description></item><item><title>Queenstown, New Zealand</title><link>//localhost:1313/posts/new-zealand/otago/queenstown/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/new-zealand/otago/queenstown/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Bungy jumping, alpine hikes, jet boating, and world-class pinot noir.&lt;/p>
 &lt;h2 id="highlights">Highlights&lt;/h2>
 &lt;ul>
@@ -16,16 +25,7 @@
 &lt;li>Central Otago winery loop&lt;/li>
 &lt;/ul>
 &lt;h2 id="practical">Practical&lt;/h2>
-&lt;p>Summer for hikes; winter for skiing in Remarkables.&lt;/p></description></item><item><title>Udaipur, India</title><link>//localhost:1313/posts/udaipur/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/udaipur/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
-&lt;p>Mirror-like lakes and ornate palaces under golden light.&lt;/p>
-&lt;h2 id="highlights">Highlights&lt;/h2>
-&lt;ul>
-&lt;li>Lake Pichola sunset cruise&lt;/li>
-&lt;li>City Palace museum&lt;/li>
-&lt;li>Bagore ki Haveli folk show&lt;/li>
-&lt;/ul>
-&lt;h2 id="practical">Practical&lt;/h2>
-&lt;p>October–March is most pleasant.&lt;/p></description></item><item><title>Santorini, Greece</title><link>//localhost:1313/posts/santorini/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/santorini/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Summer for hikes; winter for skiing in Remarkables.&lt;/p></description></item><item><title>Santorini, Greece</title><link>//localhost:1313/posts/greece/cyclades/santorini/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/greece/cyclades/santorini/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Whitewashed villages cling to caldera cliffs above the Aegean.&lt;/p>
 &lt;h2 id="highlights">Highlights&lt;/h2>
 &lt;ul>
@@ -34,7 +34,16 @@
 &lt;li>Assyrtiko tasting in a cave winery&lt;/li>
 &lt;/ul>
 &lt;h2 id="practical">Practical&lt;/h2>
-&lt;p>Visit May–Oct; stay in Imerovigli for quieter views.&lt;/p></description></item><item><title>Istanbul, Turkey</title><link>//localhost:1313/posts/istanbul/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/istanbul/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Visit May–Oct; stay in Imerovigli for quieter views.&lt;/p></description></item><item><title>Naxos</title><link>//localhost:1313/posts/greece/cyclades/naxos/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/greece/cyclades/naxos/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The Cyclades&amp;rsquo; greenest island blends beaches with history.&lt;/p>
+&lt;h2 id="highlights">Highlights&lt;/h2>
+&lt;ul>
+&lt;li>Portara at sunset&lt;/li>
+&lt;li>Agios Prokopios beach day&lt;/li>
+&lt;li>Old town kastro&lt;/li>
+&lt;/ul>
+&lt;h2 id="practical">Practical&lt;/h2>
+&lt;p>Ferries from Athens or Paros; rent a scooter for villages.&lt;/p></description></item><item><title>Istanbul, Turkey</title><link>//localhost:1313/posts/turkey/marmara/istanbul/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/turkey/marmara/istanbul/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Ferries, domes, and street food between Europe and Asia.&lt;/p>
 &lt;h2 id="highlights">Highlights&lt;/h2>
 &lt;ul>
@@ -43,7 +52,7 @@
 &lt;li>Kadıköy nightlife&lt;/li>
 &lt;/ul>
 &lt;h2 id="practical">Practical&lt;/h2>
-&lt;p>Get an Istanbulkart for ferries, trams, and metros.&lt;/p></description></item><item><title>Marrakech, Morocco</title><link>//localhost:1313/posts/marrakech/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/marrakech/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Get an Istanbulkart for ferries, trams, and metros.&lt;/p></description></item><item><title>Marrakech, Morocco</title><link>//localhost:1313/posts/morocco/marrakesh-safi/marrakech/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/morocco/marrakesh-safi/marrakech/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Get pleasantly lost in the medina, then unwind with mint tea on a rooftop.&lt;/p>
 &lt;h2 id="highlights">Highlights&lt;/h2>
 &lt;ul>
@@ -52,7 +61,16 @@
 &lt;li>Hammam and spa evening&lt;/li>
 &lt;/ul>
 &lt;h2 id="practical">Practical&lt;/h2>
-&lt;p>Dress modestly and carry cash for souks.&lt;/p></description></item><item><title>Cusco, Peru</title><link>//localhost:1313/posts/cusco/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/cusco/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Dress modestly and carry cash for souks.&lt;/p></description></item><item><title>Stellenbosch</title><link>//localhost:1313/posts/south-africa/western-cape/stellenbosch/</link><pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/south-africa/western-cape/stellenbosch/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Rolling vineyards and historic gables east of Cape Town.&lt;/p>
+&lt;h2 id="highlights">Highlights&lt;/h2>
+&lt;ul>
+&lt;li>Wine tram-style tastings (Franschhoek nearby)&lt;/li>
+&lt;li>Jonkershoek Nature Reserve&lt;/li>
+&lt;li>Church Street cafes&lt;/li>
+&lt;/ul>
+&lt;h2 id="practical">Practical&lt;/h2>
+&lt;p>Book tastings; designate a driver or use tours.&lt;/p></description></item><item><title>Cusco, Peru</title><link>//localhost:1313/posts/peru/cusco/cusco/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/peru/cusco/cusco/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Acclimate among cobbled lanes and Incan stonework before exploring the valley.&lt;/p>
 &lt;h2 id="highlights">Highlights&lt;/h2>
 &lt;ul>
@@ -61,7 +79,16 @@
 &lt;li>Train to Aguas Calientes&lt;/li>
 &lt;/ul>
 &lt;h2 id="practical">Practical&lt;/h2>
-&lt;p>Give yourself 1–2 days to adjust to altitude.&lt;/p></description></item><item><title>Banff, Canada</title><link>//localhost:1313/posts/banff/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/banff/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Give yourself 1–2 days to adjust to altitude.&lt;/p></description></item><item><title>Vancouver</title><link>//localhost:1313/posts/canada/british-columbia/vancouver/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/canada/british-columbia/vancouver/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>An outdoor city framed by mountains and ocean.&lt;/p>
+&lt;h2 id="highlights">Highlights&lt;/h2>
+&lt;ul>
+&lt;li>Stanley Park seawall loop&lt;/li>
+&lt;li>Granville Island market&lt;/li>
+&lt;li>Grouse Mountain gondola&lt;/li>
+&lt;/ul>
+&lt;h2 id="practical">Practical&lt;/h2>
+&lt;p>Transit is easy; bring layers for changeable weather.&lt;/p></description></item><item><title>Banff, Canada</title><link>//localhost:1313/posts/canada/alberta/banff/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/canada/alberta/banff/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>From turquoise Lake Louise to Moraine Lake’s Ten Peaks, Banff rewards early risers.&lt;/p>
 &lt;h2 id="highlights">Highlights&lt;/h2>
 &lt;ul>
@@ -70,7 +97,7 @@
 &lt;li>Banff Upper Hot Springs soak&lt;/li>
 &lt;/ul>
 &lt;h2 id="practical">Practical&lt;/h2>
-&lt;p>Reserve shuttles for popular lakes in summer.&lt;/p></description></item><item><title>Cape Town, South Africa</title><link>//localhost:1313/posts/cape-town/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/cape-town/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Reserve shuttles for popular lakes in summer.&lt;/p></description></item><item><title>Cape Town, South Africa</title><link>//localhost:1313/posts/south-africa/western-cape/cape-town/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/south-africa/western-cape/cape-town/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>A city framed by mountains and the cold Atlantic.&lt;/p>
 &lt;h2 id="highlights">Highlights&lt;/h2>
 &lt;ul>
@@ -79,7 +106,7 @@
 &lt;li>Penguins at Boulders Beach&lt;/li>
 &lt;/ul>
 &lt;h2 id="practical">Practical&lt;/h2>
-&lt;p>Book Robben Island tickets in advance.&lt;/p></description></item><item><title>Petra, Jordan</title><link>//localhost:1313/posts/petra/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/petra/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Book Robben Island tickets in advance.&lt;/p></description></item><item><title>Petra, Jordan</title><link>//localhost:1313/posts/jordan/maan/petra/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>//localhost:1313/posts/jordan/maan/petra/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Enter through the Siq to the Treasury, then on to the Monastery.&lt;/p>
 &lt;h2 id="highlights">Highlights&lt;/h2>
 &lt;ul>

@@ -4,7 +4,7 @@ title = "Trivandrum"
 location = "Kerala, India"
 description = "Temple heritage meets relaxed coastal vibes."
 tags = ["kerala","beach","culture"]
-image = "https://images.unsplash.com/photo-1604660676827-9f43f2d80b3b?w=1200&q=80"
+image = "/images/trivandrum.svg"
 +++
 
 ## Overview

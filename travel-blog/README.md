@@ -49,3 +49,6 @@ Static files land in `public/`. Share or deploy that folder to any static host.
 ## Notes
 - No external theme; tiny footprint (<50 files, <10MB).
 - Works on macOS, Windows, and Linux.
+
+## Images
+- Posts reference local placeholders in `static/images/`. Replace the SVGs with your photos using the same filenames for offline reliability.

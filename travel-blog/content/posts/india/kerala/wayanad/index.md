@@ -4,7 +4,7 @@ title = "Wayanad"
 location = "Kerala, India"
 description = "Plantations, waterfalls, and rainforest trails."
 tags = ["kerala","western-ghats","nature"]
-image = "https://images.unsplash.com/photo-1516445105241-2a5b58f94e4b?w=1200&q=80"
+image = "/images/wayanad.svg"
 +++
 
 ## Overview

@@ -4,7 +4,7 @@ title = "Srinagar"
 location = "Kashmir, India"
 description = "Houseboats, gardens, and snow-capped horizons."
 tags = ["kashmir","lakes","mountains"]
-image = "https://images.unsplash.com/photo-1599566147212-c1f5e05f7c1b?w=1200&q=80"
+image = "/images/srinagar.svg"
 +++
 
 ## Overview

@@ -5,7 +5,7 @@ paginate = 10
 
 [params]
   author = 'Travel Curator'
-  description = 'The greener meadows'
+  description = 'A walk through my memory lane'
 
 [taxonomies]
   tag = 'tags'

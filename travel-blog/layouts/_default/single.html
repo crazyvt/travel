@@ -17,7 +17,7 @@
       <h2>{{ .Title }}</h2>
       {{ with .Params.location }}<p class="meta">Location: <strong>{{ . }}</strong></p>{{ end }}
       {{ with .Date }}<p class="meta">When: <strong>{{ .Format "January 2006" }}</strong></p>{{ end }}
-      {{ with .Params.image }}<img class="hero" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      {{ with .Params.image }}<img class="hero" src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
       {{ .Content }}
       {{ with .Params.tags }}
       <p class="tags">
